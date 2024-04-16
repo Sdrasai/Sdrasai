@@ -1,5 +1,6 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm Sadra Sadeghi, a Node.js Backend Developer currently focused on enhancing my skills in building scalable server-side applications and mastering Express.js for RESTful APIs. I'm eager to collaborate on backend projects to learn from experienced developers and elevate my expertise. Seeking guidance in advanced Node.js concepts and code quality improvement, I'm also keen on delving into Blockchain and web3 technology to expand my knowledge horizon. Here, you'll see a diverse array of projects, experiments, and contributions that showcase my journey in web development.🚀
+Welcome to my GitHub profile! I'm Sadra Sadeghi, a Node.js Backend Developer currently focused on enhancing my skills in building scalable server-side applications and mastering Express.js for RESTful APIs. I'm eager to collaborate on backend projects to learn from experienced developers and elevate my expertise. Seeking guidance in advanced Node.js concepts and code quality improvement, 
+I'm also keen on delving into Blockchain and web3 technology to expand my knowledge horizon. Here, you'll see a diverse array of projects, experiments, and contributions that showcase my journey in web development.🚀
 
 
 ## 🌐 Socials:
